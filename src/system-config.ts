@@ -31,6 +31,7 @@ const barrels: string[] = [
   'app/shared',
   'app/dgun-app-registry',
   'app/dgun-application',
+  'app/dgun-developer',
   /** @cli-barrel */
 ];
 
