@@ -37,7 +37,7 @@ describe('Component: DgunDeveloper', () => {
 @Component({
   selector: 'test',
   template: `
-    <app-dgun-developer></app-dgun-developer>
+    <dgun-developer></dgun-developer>
   `,
   directives: [DgunDeveloperComponent]
 })
