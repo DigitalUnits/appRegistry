@@ -9,6 +9,6 @@ describe('app-registry App', function() {
 
   it('should display message saying app works', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('app-registry works!');
+    expect(page.getParagraphText()).toEqual('app-registry works! dgun-app-registry works!');
   });
 });
